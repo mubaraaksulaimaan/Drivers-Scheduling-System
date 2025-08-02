@@ -64,7 +64,7 @@ Place the folder in your server root (e.g., htdocs for XAMPP).
 
 Visit: http://localhost/gsu_driver_scheduling_system
 
-Default login (optional, if you want to share):
+Default login
 Username: admin
 Password: admin123
 
